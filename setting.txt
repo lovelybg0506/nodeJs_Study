@@ -1,0 +1,3 @@
+// npm init -y : 라이브러리 사용을 위한 명령어
+// npm install express : express 라이브러리 설치
+// npm install -g nodemon@3.0.1 : nodemon 설치 (서버내렸다띄웠다 안해도됨)
